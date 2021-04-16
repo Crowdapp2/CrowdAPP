@@ -1,16 +1,20 @@
 # crwordapp
+CAPSTONE PROJECT 2 
 
-A new Flutter application.
+Mobile Application for Directing Users to Uncrowded Supermarkets
 
-## Getting Started
+EYAD M ALSUFYANI – 43700542
+MAJID M AL-QURASHI – 43710337
+MAJID K AL-QURASHI - 43704936
+ABDULKARIM H AL-TALHI - 43700564
+MOAD K AL-BALUSHI - 43652909
+ABDULMAJEED A AL-MALIKI - 43708227
+ABDULAZIZ I HIJAZI - 43708425
 
-This project is a starting point for a Flutter application.
+Supervised by:
+Dr. Abdullah Alharbi
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Department of Information Technology 
+Collage of Computers and Information Technology 
+Taif University, KSA
+Fall 2020

@@ -1,4 +1,4 @@
-# crwordapp
+# CrwordAPP
 CAPSTONE PROJECT 2 
 
 Mobile Application for Directing Users to Uncrowded Supermarkets

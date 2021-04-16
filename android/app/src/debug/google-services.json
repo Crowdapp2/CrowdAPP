@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689994525461",
+    "project_id": "crowdapp-ac2fb",
+    "storage_bucket": "crowdapp-ac2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689994525461:android:de842fe08af43647c2d71c",
+        "android_client_info": {
+          "package_name": "com.example.crwordap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689994525461-1luu4fm5k9l17dsvoqcc31nr3utvstej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9czi1tLcXuvdWcuWFnYzp0E2nBDCzPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689994525461-1luu4fm5k9l17dsvoqcc31nr3utvstej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
